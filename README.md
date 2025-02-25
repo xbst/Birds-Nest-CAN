@@ -1,43 +1,40 @@
-# PCB-GitHub-Template
-Start with a picture, followed by a brief description.
+# Birds' Nest Toolchanger USB Hub
+![Birds' Nest PCB](./Images/PCB.jpg)
 
-### Features
+Birds' Nest is a USB hub PCB designed for toolchanger printers with USB toolhead PCBs. It features:
+- 6x USB Outs for Up To 6 Toolheads, Protected
+- 6x Filament Sensor Connectors
+- 4x Thermistor Connectors
+- 2x 5V RGB Connectors
 
-Only add if there are features worth explaining/listing in a table.
-
-## Purchasing a XXX
+## Purchasing a Birds' Nest
 ### Buy From Me
+- Each PCB tested by me
+- All connectors needed are included (if applicable)
+- Supports the development of open-source projects like this
+- Ships worldwide
+
 #### United States
-- [Isik's Tech](.)
+- [Isik's Tech](https://store.isiks.tech/products/birds-nest)
 
 ### Resellers
+- Each PCB tested by me
+- All connectors needed are included (if applicable)
+- Supports the development of open-source projects like this
+#### United States
+- [West 3D](https://west3d.com/products/birds-nest-usb-hub-for-toolchangers-pcb-by-isiks-tech)
 ### European Union
-- [Lab4450 (Portugal)](.)
-- [Alchemy3D (Germany)](.)
+- [Lab4450 (Portugal)](https://lab4450.com/product/birds-nest-usb-hub-for-toolchanger/)
+- [Alchemy 3D (Germany)](https://alchemy3d.de/products/birds-nest-usb-hub-by-isik-s-tech)
+
+This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
+
+You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) or [JLCPCB](https://jlcpcb.com/). Make sure to order 2 oz inner layers.
+<br>
 
 ## Instructions
 
-...
-
-## Versions
-
-Only add if there are multiple MAJOR versions, like KUSBA V1 and V2.
-
-
-
-## Folders
-
-Delete this.
-
-| Folder | For |
-| ------ | --- |
-| CAD | CAD models of the PCB and mounts |
-| Docs | Guides, extra docs |
-| EasyEDA-Source | Source .json files, in version folders |
-| Firmware | Klipper .cfg files, if multiple options available, in sub folders |
-| Gerbers | Gerbers in `Gerbers.zip`, BOM in `BOM.csv`, CPL in `PNP.csv`, in version folders under `Old-Versions` except latest which is in `Latest-Tested-Version`, add a `README.md` with the changelog |
-| Images | Images for docs |
-| Mounts | Mounts for the PCB, add a `README.md` |
+[Birds' Nest Manual](./Docs/Birds-Nest-Manual.pdf)
 
 ## YouTube
 
