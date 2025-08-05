@@ -18,16 +18,7 @@ Birds' Nest is a USB CAN hub PCB designed for toolchanger printers with CAN tool
 
 #### United States
 - [Isik's Tech](https://store.isiks.tech/products/birds-nest-can)
-
-### Resellers
-- Each PCB tested by me
-- All connectors needed are included (if applicable)
-- Supports the development of open-source projects like this
-
-#### TBD
-
-You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) or [JLCPCB](https://jlcpcb.com/) for non-commercial applications. Make sure to order 2 oz inner layers.
-<br>
+- [Amazon (Prime Shipping)](https://www.amazon.com/dp/B0FK8C8KH3?maas=maas_adg_B65501EB493128BAE79C2F4793520CF6_afap_abs&ref_=aa_maas&tag=maas)
 
 ## Instructions
 
